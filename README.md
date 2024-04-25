@@ -7,18 +7,18 @@ This repository contains a simple to-do list application built with React, TypeS
 
 ### Installation
 
-- **npm install
+- npm install
 
-Development Server
-- ** npm start
+### Development Server
+- npm start
 
-Simulating Server Environment
-- ** npm run app-server
+### Simulating Server Environment
+- npm run app-server
 
 ## Technologies Used
-- **React
-- **TypeScript
-- **Vite
-- **Tailwind CSS
-- **Redux
-- **Redux Toolkit
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Redux
+- Redux Toolkit
